@@ -17,54 +17,31 @@ The objectives of our team to address this issue was to create a distraction for
 ● The kids could get bored of the same repetitive games. </br>
 ● Difficult to design something for toddlers due to small pieces, as well as kids older than 10. </br>
 
-<h2>CAD Design</h2>
+<h2>CAD: </h2>
 
 <p align="center">
-Launch the utility: <br/>
-![CAD1](https://user-images.githubusercontent.com/114104321/219904232-503dde34-1e1f-430a-9926-57986e4b95f2.jpeg)
+<img width="471" alt="CAD1" src="https://user-images.githubusercontent.com/114104321/219904284-4df79e41-ac15-4520-8e3b-ff3f6c91cd22.png">
 <br />
-
-<h2>Environments Used </h2>
-
-- <b>Windows 10</b> (21H2)
-
-<h2>Program walk-through:</h2>
-
 <p align="center">
-Launch the utility: <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="473" alt="CAD2" src="https://user-images.githubusercontent.com/114104321/219904322-db981f7e-bfdd-4d68-a345-b8dc52f891fb.png">
 <br />
-<br />
-Select the disk:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Enter the number of passes: <br/>
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Confirm your selection:  <br/>
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Wait for process to complete (may take some time):  <br/>
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Sanitization complete:  <br/>
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
-<br />
-Observe the wiped disk:  <br/>
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+<h2>Product Description: </h2>
+● Wires were cleaned up and shorter wires were used as this was a safety hazard for little kids. </br>
+● The motors were glued to the cardboard to make the robot more sturdy. </br>
+● The batteries, breadboards and red boards were glued to make use of space as effective as possible. </br>
+● The robot worked successfully, the piano game worked very consistently and we added more buttons than anticipated. </br>
+● A limitation of the robot was definitely the wagon that it was pulling as in uneven surfaces it tended to be a bit unstable. </br>
+ 
+<h2>Final Product: </h2>
+<p align="center">
+<img width="181" alt="Project1_1" src="https://user-images.githubusercontent.com/114104321/219904590-a3bfe468-4b9e-49b1-b048-55405ef0dd25.png">
+<br />
+ 
+<p align="center">
+<img width="283" alt="Project1_2" src="https://user-images.githubusercontent.com/114104321/219904626-0ab951f7-521f-4579-bec4-9949411b92cf.png">
+<br />
+  
+<p align="center">
+<img width="284" alt="Projetc1_3" src="https://user-images.githubusercontent.com/114104321/219904639-be759f0d-ae64-4ff2-b913-31ff6a7cb055.png">
+<br />
