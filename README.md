@@ -21,7 +21,7 @@ The objectives of our team to address this issue was to create a distraction for
 
 <p align="center">
 Launch the utility: <br/>
-<img src="CAD1.jpeg"/>
+![CAD1](https://user-images.githubusercontent.com/114104321/219903760-4ade4d20-9b16-4b18-831d-2bad0e3f1bc6.jpeg)
 <br />
 
 <h2>Environments Used </h2>
